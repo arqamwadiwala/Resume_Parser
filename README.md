@@ -1,2 +1,3 @@
 # Resume_Parser
 Create a NLP based Resume Parser on Python
+As opposed to being a general data extraction parser, I have intentionally designed the Affined resume parser to detect information from CVs, it parses the resume and picks out the best suited job based on the persons skills as it is difficult to manually scan through a large number of CVs. Our machine learning algorithms are not based only on NLP and data extraction; they have been trained using CV subsections like Education, Skills, and Work Experience. This allows us to gain a higher level of accuracy than many similar software options on the market.
